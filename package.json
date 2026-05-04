@@ -1,0 +1,6 @@
+{
+  "name": "agent-drak-generador-de-contrasenas-segur-mormbcpy",
+  "version": "1.0.0",
+  "description": "Proyecto de Drak [Gen9]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
